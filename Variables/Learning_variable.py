@@ -16,3 +16,4 @@ print(result)
 
 result2 = number1 - number2
 print(result2)
+
