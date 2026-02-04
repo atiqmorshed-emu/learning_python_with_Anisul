@@ -17,3 +17,12 @@ print(result)
 result2 = number1 - number2
 print(result2)
 
+# division
+
+result3 = number1 / number2
+print(result3)
+
+#multiplication
+
+result4 = number1 * number2
+print(result4)
